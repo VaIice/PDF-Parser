@@ -33,7 +33,7 @@ npm install
 # backend 폴더에서 프론트엔드와 백엔드를 동시에 실행 (터미널 나눌 필요 X)
 npm run dev
 ```
-개발 서버 실행 후 localhost:5173 접속
+#### 개발 서버 실행 후 localhost:5173 접속
 ---
 
 ## 🔍 구현 사항
