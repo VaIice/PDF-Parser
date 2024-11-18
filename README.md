@@ -18,13 +18,13 @@ git clone https://github.com/VaIice/PDF-Parser.git
 # 프로젝트 디렉토리로 이동
 cd PDF-Parser
 
-# 프론트엔드 디렉토리로 이동
+# frontend 디렉토리로 이동
 cd frontend
 
 # 필요한 의존성 설치
 npm install
 
-# 백엔드 디렉토리로 이동
+# backend 디렉토리로 이동
 cd ../backend
 
 # 필요한 의존성 설치
