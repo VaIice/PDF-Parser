@@ -47,12 +47,12 @@ npm run dev
 
 ---
 ## 🔄 데이터 흐름도
-![image](https://github.com/user-attachments/assets/a4e9cc3a-9540-458e-877d-ea247cec6f14)
+![image](https://github.com/user-attachments/assets/a0c42728-abeb-4ee4-b3d5-bcb50faf941c)
 
 ## 🎞 웹 페이지 화면
 #### PDF 뷰어
-![image](https://github.com/user-attachments/assets/8494a890-a066-44de-9156-a6924e7e7030)
+![image](https://github.com/user-attachments/assets/9825e928-afc1-4c54-89d7-2833a2388bd4)
 
 --- 
 #### 신구조문 테이블
-![image](https://github.com/user-attachments/assets/c0412d53-9384-439a-a0d7-f33d30f7ddde)
+![image](https://github.com/user-attachments/assets/0bb8d789-7cde-4d9a-837c-bcfcdb3976b7)
