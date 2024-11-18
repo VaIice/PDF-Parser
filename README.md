@@ -10,7 +10,7 @@
 
 ---
 
-## 🔍 설치 및 실행
+## ⚙ 설치 및 실행
 ```bash
 # 프로젝트 클론
 git clone https://github.com/VaIice/PDF-Parser.git
