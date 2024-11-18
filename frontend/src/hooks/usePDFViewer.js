@@ -33,6 +33,14 @@ export const usePDF = () => {
   const handleFileChange = async (event) => {
     try {
       const file = event.target.files[0];
+
+      if (!file) {
+        return;
+      } else if (file.type !== 'application/pdf') {
+        alert('PDF 파일만 업로드할 수 있습니다.');
+        return;
+      }
+
       const pdf = await loadPDF(file);
 
       setPdfDoc(pdf);
