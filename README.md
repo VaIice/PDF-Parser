@@ -3,7 +3,7 @@
 ##### PDF 뷰어 애플리케이션 만들어서 PDF 파일의 테이블 파싱하기
 
 ---
-## 🛠️ **Tools and Technologies :** <br><br>
+## 🛠️ **Tools and Technologies
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=%23ffffff)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=%23ffffff)
@@ -33,7 +33,7 @@ npm install
 # backend 폴더에서 프론트엔드와 백엔드를 동시에 실행 (터미널 나눌 필요 X)
 npm run dev
 ```
-#### 개발 서버 실행 후 localhost:5173 접속
+개발 서버 실행 후 localhost:5173 접속
 ---
 
 ## 🔍 구현 사항
