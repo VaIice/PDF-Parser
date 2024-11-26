@@ -3,7 +3,7 @@
 ##### PDF 뷰어 애플리케이션 만들어서 PDF 파일의 테이블 파싱하기
 
 ---
-## 🛠️ **Tools and Technologies
+## 🛠️ Tools and Technologies
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=%23ffffff)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=%23ffffff)
